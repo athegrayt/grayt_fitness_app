@@ -1,0 +1,13 @@
+.LogEntry {
+  display: flex;
+  font-size: 20px;
+  background: white;
+  color: black;
+  /* width: 75%; */
+  margin: 2vh;
+  justify-content: space-around;
+  padding: 0;
+  border-radius: 15px;
+  box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}

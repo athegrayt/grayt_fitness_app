@@ -1,0 +1,22 @@
+.NutritionSummary {
+  text-align: center;
+  overflow: scroll;
+  height: 25vh;
+  margin: auto;
+}
+.NutritionFact {
+  display: flex;
+  text-align: center;
+  flex-flow: column;
+  /* width: 33%; */
+  box-sizing: border-box;
+  /* border: 5px solid black; */
+  border-radius: 25%;
+  box-shadow: rgba(0, 0, 0, 0.4);
+  justify-content: center;
+  margin: 10px;
+}
+.NutritionFact p {
+  margin-block-end: 10px;
+  margin-block-start: 10px;
+}
