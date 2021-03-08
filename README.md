@@ -45,12 +45,12 @@ npm start
 #### CRUD Operations
 
 - C:
-    - Create journal entry in data base with fetched nutrional data   
+    - Create journal entry in the database with fetched nutritional data   
 
 - R:
-    - Read only entries from authorized user and display them in journal log  
+    - Read only entries from an authorized user and display them in the journal log  
 - U:
-    - Update User info allowing for an updated caloric goal
+    - Update user profile allowing for an updated caloric goal
 - D:
     - Delete entries 
 
