@@ -1,4 +1,4 @@
-# GraytFitness v.1
+# Grayt Fitness 
 
 ![Project Image](./src/assets/images/GraytFitness_v.1.gif)
 
@@ -28,7 +28,7 @@ A serverless fullstack web app that leverages CRUD database operations offering 
 - Nutritionix API
 
 
-[Back To The Top](#GraytFitness-v.1)
+[Back To The Top](#grayt-fitness)
 
 ---
 
@@ -40,7 +40,7 @@ A serverless fullstack web app that leverages CRUD database operations offering 
 npm start
 ```
 
-- Create .env file with personal Nutritionix and Google Cloud Services api keys 
+- Create .env file with personal [Nutritionix](https://developer.nutritionix.com/) and [Google Cloud Services](https://cloud.google.com/docs/authentication/api-keys) api keys 
 
 #### CRUD Operations
 
@@ -54,7 +54,7 @@ npm start
 - D:
     - Delete entries 
 
-[Back To The Top](#GraytFitness-v.1)
+[Back To The Top](#grayt-fitness)
 
 ---
 
@@ -64,7 +64,7 @@ npm start
 - [Nutritionix](https://www.nutritionix.com/)
 - [Google Cloud Services](https://cloud.google.com/)
 
-[Back To The Top](#GraytFitness-v.1)
+[Back To The Top](#grayt-fitness)
 
 ---
 
@@ -92,13 +92,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#GraytFitness-v.1)
+[Back To The Top](#grayt-fitness)
 
 ---
 
 ## Author Info
 
-- LinkedIn - [Akil Gray](www.linkedin.com/in/akil-gray)
+- LinkedIn - [Akil Gray](https://linkedin.com/in/akil-gray)
 - Github - [athegrayt](https://github.com/athegrayt)
 
-[Back To The Top](#GraytFitness-v.1)
+[Back To The Top](#grayt-fitness)
